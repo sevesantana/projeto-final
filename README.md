@@ -8,7 +8,7 @@ O projeto tem como objetivo gerenciar informações hospitalares como *pacientes
 
 ## 🧩 Estrutura do Projeto
 
-
+```markdown
 Projeto_Final/
 ├── pom.xml                 # Arquivo de configuração do Maven
 ├── src/
@@ -24,7 +24,7 @@ Projeto_Final/
 │           ├── security/                    # Configurações de segurança (Spring Security)
 │           └── service/                     # Lógica de negócio
 └── .idea/                                   # Configurações do IntelliJ IDEA
-
+```
 
 
 ---
