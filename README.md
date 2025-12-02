@@ -26,6 +26,7 @@ Projeto_Final/
 └── .idea/                                   # Configurações do IntelliJ IDEA
 
 
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
