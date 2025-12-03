@@ -89,12 +89,12 @@ Antes de rodar o projeto, verifique se possui instalado:
 
 1. *Clonar o repositório*
    bash
-   git clone https://github.com/seuusuario/Projeto_Final.git
+   git clone https://github.com/sevesantana/projeto-final
    
 
 2. *Acessar a pasta do projeto*
    bash
-   cd Projeto_Final
+   cd projeto-final
    
 
 3. *Baixar dependências*
