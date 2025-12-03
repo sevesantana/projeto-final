@@ -88,24 +88,28 @@ Antes de rodar o projeto, verifique se possui instalado:
 ### ▶️ Passos para rodar
 
 1. *Clonar o repositório*
+   ```markdown
    bash
    git clone https://github.com/sevesantana/projeto-final
-   
+   ```
 
 2. *Acessar a pasta do projeto*
+   ```markdown
    bash
    cd projeto-final
-   
+   ```
 
 3. *Baixar dependências*
+   ```markdown
    bash
    mvn clean install
-   
+   ```
 
 4. *Executar a aplicação*
+   ```markdown
    bash
    mvn spring-boot:run
-   
+   ```
 
 5. *Acessar no navegador*
    
